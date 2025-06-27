@@ -137,3 +137,7 @@ To get this chatbot script running on your local machine, follow these simple st
     ```
 
     The chatbot will then start, and you can begin interacting with it by typing messages into the console. To exit, type "bye" or "goodbye".
+
+
+    **OUTPUT**
+    ![Image](https://github.com/user-attachments/assets/8f7637da-2817-45c8-8840-9795c3c2295d)
